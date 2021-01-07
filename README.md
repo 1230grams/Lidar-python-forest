@@ -10,7 +10,7 @@ This is just me trying out pdal for point cloud processing and potencial forestr
 
 
 ## Data source
-(http://gis.arso.gov.si/evode/profile.aspx?id=atlas_voda_Lidar@Arso&culture=en-US)
+http://gis.arso.gov.si/evode/profile.aspx?id=atlas_voda_Lidar@Arso&culture=en-US
 
 
 ## Documentation
